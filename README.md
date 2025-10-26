@@ -3,7 +3,11 @@ Tracker for 21-30 (1-10) stages of expanse with season/side selector
 
 Installation
 
-Download grabber.zip or just download everything as an archive and pull the dist folder from there
+Download dist.zip or just download everything as an archive and pull the dist folder from there
+
+Source code in source, archived exe and files in dist.zip/dist folder
+
+grabber.exe - old ver
 
 Unzip/move a folder to a desired location, run the .exe
 
