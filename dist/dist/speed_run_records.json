@@ -1,0 +1,27 @@
+{
+    "currentStage": "ECHOES",
+    "currentSeason": 4,
+    "seasons": {
+        "ECHOES": {
+            "4": {
+                "pbTotalTimeSeconds": "inf",
+                "pbRunTimes": [],
+                "bestSplits": {},
+                "runCount": 0
+            }
+        },
+        "ETERNITY": {}
+    },
+    "config": {
+        "background_color": "#1a1a2e",
+        "frame_color": "#0a0a1a",
+        "highlight_color": "#ffb703",
+        "pb_split_color": "#34d399",
+        "dream_split_color": "#00ffff",
+        "image_path": "",
+        "image_opacity": 0.2,
+        "watermark_text": "Speed Tracker by White Claws LLC",
+        "watermark_font_size": 8,
+        "text_color": "#FFFFFF"
+    }
+}
