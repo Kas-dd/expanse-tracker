@@ -1,7 +1,8 @@
 # expanse-tracker
 Tracker for 21-30 (1-10) stages of expanse with season/side selector
 Installation
-Just unzip the folder and run the .exe
+Download grabber.zip or just download everything as an archive and pull the dist folder from there
+Unzip/move a folder to a desired location, run the .exe
 It probably works
 No : or , are needed to input the time, just write it as it is
 0:06=6, 0:12=12, 1:03=103 etc
