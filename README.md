@@ -41,3 +41,9 @@ Wipe all only impacts the current stage and season
 If something needs to be manually adjusted (i.e. wrong total was inputted) just manually change it in the json
 
 I forgot what else i wanted to mention so its probably not important
+
+Potential plans
+
+Storing more runs with an export to excel function
+
+Calam ops tool
