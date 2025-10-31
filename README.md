@@ -47,3 +47,6 @@ Potential plans
 Storing more runs with an export to excel function
 
 Calam ops tool
+
+Make it so it doesnt tell you that a tie with dream run=new pb room
+
